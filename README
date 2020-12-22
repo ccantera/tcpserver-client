@@ -2,4 +2,5 @@ in the client file you will need to put in the ip address of the server on line 
 
 after this you need to compile the server file first before the client file
 
-:)
+you can just download the server and use a program like PuTTY for the client. 
+found at https://www.putty.org/
